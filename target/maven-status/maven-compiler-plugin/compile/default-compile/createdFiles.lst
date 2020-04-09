@@ -1,0 +1,10 @@
+com\practice\example1\App.class
+com\practice\example1\configurer\FilterConfiguration.class
+com\practice\example1\repository\TopicRepository.class
+com\practice\example1\entity\TopicEntity.class
+com\practice\example1\utilities\CommonServices.class
+com\practice\example1\controller\HelloController.class
+com\practice\example1\service\TopicService.class
+com\practice\example1\configurer\ConfigureWeatherDB.class
+com\practice\example1\filter\TopicFilter.class
+com\practice\example1\controller\TopicController.class
